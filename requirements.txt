@@ -1,0 +1,13 @@
+werkzeug==2.3.6
+Flask==2.3.2
+flask-restx==1.1.0
+flask-marshmallow==0.15.0
+flask-cors==4.0.0
+flask_httpauth==4.8.0
+flask-migrate==4.0.4
+sqlalchemy==2.0.19
+geoalchemy2==0.14.0
+pycryptodome==3.18.0
+itsdangerous==2.1.2
+Pyrebase4==4.7.1
+psycopg2-binary==2.9.6
